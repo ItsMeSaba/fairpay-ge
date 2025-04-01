@@ -1,0 +1,64 @@
+import style from "./styles.module.scss";
+import Link from "next/link";
+import AccountCircleRoundedIcon from "@/assets/svgs/icons/account-circle.svg";
+import MenuIcon from "@/assets/svgs/icons/menu.svg";
+
+interface Args {
+  openAuth?: (...args: any) => any;
+  openSliderMenu?: (...args: any) => any;
+}
+
+export function Header(args: Args) {
+  const { openAuth, openSliderMenu } = args;
+  // const { user, status } = useCheckAuth();
+  // const { status } = useContext(GlobalContext).authData;
+
+  return (
+    <header className={style.header}>
+      <div className={style.websiteName}>
+        <Link href="/">
+          <h1>Fairpay</h1>
+        </Link>
+
+        <h6>Tech</h6>
+
+        <div className={style.pill}>BETA</div>
+      </div>
+
+      <div className={style.search}>{/* <Search /> */}</div>
+
+      <ul className={style.links}>
+        <li>
+          <Link href="/salaries">ანაზღაურებები</Link>
+
+          <Link href="/companies">კომპანიები</Link>
+        </li>
+
+        <li onClick={openAuth}>
+          <AccountCircleRoundedIcon className="text-black" />
+        </li>
+      </ul>
+
+      <div className={style.burgerButton} onClick={openSliderMenu}>
+        <MenuIcon />
+      </div>
+    </header>
+  );
+}
+
+function Links() {
+  return (
+    <ul>
+      <li>
+        <Link href="/salaries">ხელფასები</Link>
+      </li>
+      <li>
+        <Link href="/companies">კომპანიები</Link>
+      </li>
+      <li>
+        <Link href="/technologies">ტექნოლოგიები</Link>
+      </li>
+      <li>{/* <AccountCircleRoundedIcon fontSize="medium" /> */}</li>
+    </ul>
+  );
+}

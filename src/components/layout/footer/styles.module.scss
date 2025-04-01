@@ -1,0 +1,17 @@
+@reference "tailwindcss";
+
+.footer {
+  @apply grid items-center justify-center justify-items-center grid-cols-2 p-12 text-base text-white bg-[rgb(47,54,64)];
+
+  .list {
+    @apply flex flex-col;
+
+    a {
+      @apply p-3;
+    }
+  }
+
+  .deleteRequest {
+    @apply mt-4 col-span-2;
+  }
+}

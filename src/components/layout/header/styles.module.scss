@@ -1,0 +1,42 @@
+@reference "tailwindcss";
+
+.header {
+  @apply text-base bg-white h-[12vh] grid grid-cols-[1fr_4fr_1fr] items-center justify-between justify-items-center px-12 z-[99];
+
+  .websiteName {
+    @apply p-0 flex justify-start items-end text-[1.8rem] font-['Comfortaa'] font-bold tracking-[-1px] cursor-pointer text-[rgb(10,10,10,1)];
+
+    h1 {
+      @apply text-[1.8rem] font-semibold;
+    }
+
+    h6 {
+      @apply pl-[5px] text-base;
+    }
+  }
+
+  .links {
+    @apply justify-end;
+  }
+
+  .pill {
+    @apply text-[0.7rem] py-[0.3rem] px-[0.6rem] self-start font-light;
+    @apply tracking-[0.05rem] text-white rounded-[1000px] ml-2 bg-[rgb(130,130,130)];
+  }
+
+  ul {
+    @apply flex items-center;
+
+    li {
+      @apply p-0 text-[0.92rem] cursor-pointer flex items-center;
+
+      a {
+        @apply mr-[1.8rem];
+      }
+    }
+  }
+
+  .burgerButton {
+    @apply hidden;
+  }
+}

@@ -1,0 +1,55 @@
+@reference "tailwindcss";
+
+@keyframes animateText {
+	to {
+		left: 0px;
+	}
+}
+
+.container {
+  @apply grid grid-cols-[1fr_1.2fr] items-center h-[87vh] justify-center relative;
+  @apply text-white bg-gradient-to-l from-[#FF324B] to-[#ED213A] overflow-hidden;
+
+  .content {
+    @apply flex h-full text-center items-center;
+
+    h1 {
+      @apply text-6xl text-left leading-[5.5rem] m-auto z-10 w-fit font-bold;
+      text-shadow: 2px 2px 2px black;
+      animation: animateText 2s forwards;
+
+      span {
+        @apply text-[150px] relative -left-[350px] top-8;
+        animation: animateText 3s forwards;      
+      }
+    }
+  }
+
+  .avatar {
+    @apply flex w-full h-full items-end justify-center m-auto;
+
+    img {
+      @apply w-[850px] filter drop-shadow-[10px_5px_1px_rgba(0,0,0,0.2)];
+    }
+  }
+
+  .blobOne, .blobTwo {
+    @apply absolute opacity-20;
+  }
+  
+  .blobOne {
+    @apply left-0 top-0 origin-top-left -translate-x-1/2 -translate-y-1/2 scale-[1.1];
+  }
+  
+  .blobTwo {
+    @apply right-0 bottom-0 origin-bottom-right translate-x-1/2 translate-y-1/2 scale-[1.1];
+  }
+
+  .wave {
+    @apply absolute bottom-[-2px] left-0 w-full overflow-hidden leading-none rotate-180;
+
+    svg {
+      @apply relative block w-full h-[140px];
+    }
+  }
+}
