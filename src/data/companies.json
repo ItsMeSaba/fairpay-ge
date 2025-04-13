@@ -1,0 +1,657 @@
+[
+  {
+    "_id": {
+      "$oid": "619d302ac6dad46cd80e029c"
+    },
+    "name": "Vendoo",
+    "vacancyCount": 3,
+    "reviewCount": 1,
+    "urlName": "vendoo",
+    "documentsCount": 3,
+    "sumOfRatings": 10,
+    "color": "1d41dd",
+    "isRestricted": true,
+    "rname": "Vendoo"
+  },
+  {
+    "_id": {
+      "$oid": "619d3061c6dad46cd80e029d"
+    },
+    "name": "Scandiweb",
+    "urlName": "scandiweb",
+    "vacancyCount": 3,
+    "reviewCount": 0,
+    "sumOfRatings": 0,
+    "documentsCount": 2,
+    "color": "e7152a"
+  },
+  {
+    "_id": {
+      "$oid": "619d3074c6dad46cd80e029e"
+    },
+    "name": "Neollet",
+    "urlName": "neollet",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "57e26b"
+  },
+  {
+    "_id": {
+      "$oid": "619d3115c6dad46cd80e029f"
+    },
+    "name": "UniPAY",
+    "urlName": "unipay",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "042142"
+  },
+  {
+    "_id": {
+      "$oid": "619d3131c6dad46cd80e02a0"
+    },
+    "name": "Gulf",
+    "urlName": "gulf",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "ff6318"
+  },
+  {
+    "_id": {
+      "$oid": "619d3139c6dad46cd80e02a1"
+    },
+    "name": "Appidea",
+    "urlName": "appidea",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "9de4f3"
+  },
+  {
+    "_id": {
+      "$oid": "619d3174c6dad46cd80e02a2"
+    },
+    "name": "63BITS",
+    "urlName": "63bits",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "343890"
+  },
+  {
+    "_id": {
+      "$oid": "619d3187c6dad46cd80e02a3"
+    },
+    "name": "Lemondo",
+    "urlName": "lemondo",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0,
+    "color": "bfd400"
+  },
+  {
+    "_id": {
+      "$oid": "619d319cc6dad46cd80e02a4"
+    },
+    "name": "Dexfinity",
+    "urlName": "dexfinity",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0,
+    "color": "0d6bf7"
+  },
+  {
+    "_id": {
+      "$oid": "619d31b4c6dad46cd80e02a5"
+    },
+    "name": "IRAO",
+    "urlName": "irao",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "d20504"
+  },
+  {
+    "_id": {
+      "$oid": "619d31bbc6dad46cd80e02a6"
+    },
+    "name": "NLYC",
+    "urlName": "nlyc",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "ducomentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "6cbd45"
+  },
+  {
+    "_id": {
+      "$oid": "619d31c9c6dad46cd80e02a7"
+    },
+    "name": "Dinespace",
+    "urlName": "dinespace",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "f96d44"
+  },
+  {
+    "_id": {
+      "$oid": "619d3211c6dad46cd80e02a8"
+    },
+    "name": "CoachNow",
+    "urlName": "coachnow",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "fc6400"
+  },
+  {
+    "_id": {
+      "$oid": "619d3235c6dad46cd80e02a9"
+    },
+    "name": "Exadel",
+    "urlName": "exadel",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0,
+    "color": "0081ca"
+  },
+  {
+    "_id": {
+      "$oid": "619d32b7c6dad46cd80e02aa"
+    },
+    "name": "Exactpro",
+    "urlName": "exactpro",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "4696cf"
+  },
+  {
+    "_id": {
+      "$oid": "619d33afc6dad46cd80e02ab"
+    },
+    "name": "Twino",
+    "urlName": "twino",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0,
+    "color": "22b3e2"
+  },
+  {
+    "_id": {
+      "$oid": "619d3951c6dad46cd80e02ac"
+    },
+    "name": "აწარმოე საქართველოში",
+    "urlName": "awarmoesakartveloshi",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "3c5d84"
+  },
+  {
+    "_id": {
+      "$oid": "619d395bc6dad46cd80e02ad"
+    },
+    "name": "Georgia Tech Tbilisi",
+    "urlName": "georgiatechtbilisi",
+    "vacancyCount": 4,
+    "reviewCount": 0,
+    "documentsCount": 4,
+    "sumOfRatings": 0,
+    "color": "c3526f"
+  },
+  {
+    "_id": {
+      "$oid": "619d3988c6dad46cd80e02ae"
+    },
+    "name": "საქართველოს მელიორაცია",
+    "urlName": "sakartvelosmelioracia",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0,
+    "color": "05acec"
+  },
+  {
+    "_id": {
+      "$oid": "61bf19156b63c4392505da55"
+    },
+    "name": "ვაბაკო",
+    "urlName": "vabako",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0,
+    "color": "c61b21"
+  },
+  {
+    "_id": {
+      "$oid": "61bf28426b63c4392505da57"
+    },
+    "name": "Linton Group",
+    "urlName": "lintongroup",
+    "vacancyCount": 3,
+    "reviewCount": 0,
+    "documentsCount": 3,
+    "sumOfRatings": 0,
+    "color": "70b5f0"
+  },
+  {
+    "_id": {
+      "$oid": "61bf36d56b63c4392505da58"
+    },
+    "name": "TAZE Technologies",
+    "urlName": "tazetechnologies",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "12b8f5"
+  },
+  {
+    "_id": {
+      "$oid": "61bf37fe6b63c4392505da59"
+    },
+    "name": "SmartWeb",
+    "urlName": "smartweb",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "c12a45"
+  },
+  {
+    "_id": {
+      "$oid": "61bf3a616b63c4392505da5a"
+    },
+    "name": "Helix Nebula Capital",
+    "urlName": "helixnebulacapital",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0
+  },
+  {
+    "_id": {
+      "$oid": "61bf3b3b6b63c4392505da5b"
+    },
+    "name": "Eurasia Group",
+    "urlName": "eurasiagroup",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0
+  },
+  {
+    "_id": {
+      "$oid": "61bf3c856b63c4392505da5c"
+    },
+    "name": "საგანმანათლებლო ტექნოლოგიები საქართველო",
+    "urlName": "edutechgeo",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0,
+    "color": "979797"
+  },
+  {
+    "_id": {
+      "$oid": "61bf3d726b63c4392505da5d"
+    },
+    "name": "საჯარო რეესტრის ეროვნული სააგენტო",
+    "urlName": "publicregistry",
+    "color": "ffcc2a",
+    "vacancyCount": 2,
+    "reviewCount": 0,
+    "documentsCount": 2,
+    "sumOfRatings": 0
+  },
+  {
+    "_id": {
+      "$oid": "61bf423b6b63c4392505da5e"
+    },
+    "name": "Websense",
+    "urlName": "websense",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0,
+    "color": "9e3577"
+  },
+  {
+    "_id": {
+      "$oid": "61bf42b76b63c4392505da5f"
+    },
+    "name": "Tivendis",
+    "urlName": "tivendis",
+    "vacancyCount": 1,
+    "reviewCount": 0,
+    "documentsCount": 1,
+    "sumOfRatings": 0
+  },
+  {
+    "_id": {
+      "$oid": "62c48e83f016889b9798025c"
+    },
+    "name": "Bank Of Georgia",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "bankofgeorgia",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "ff5800"
+  },
+  {
+    "_id": {
+      "$oid": "62c4936bf016889b9798025d"
+    },
+    "name": "TBC Bank",
+    "urlName": "tbcbank",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "00abef"
+  },
+  {
+    "_id": {
+      "$oid": "62c9523cf8fc105d0f14edb6"
+    },
+    "name": "Payze",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "payze",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "4940F3"
+  },
+  {
+    "_id": {
+      "$oid": "62c95495f8fc105d0f14edb9"
+    },
+    "name": "Liberty Bank",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "libertybank",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "000000"
+  },
+  {
+    "_id": {
+      "$oid": "62c955cef8fc105d0f14edbb"
+    },
+    "name": "CityPay",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "citypay",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "ff596d"
+  },
+  {
+    "_id": {
+      "$oid": "62c956a2f8fc105d0f14edbe"
+    },
+    "name": "Crocobet",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "crocobet",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "00a200"
+  },
+  {
+    "_id": {
+      "$oid": "62c95b8cf8fc105d0f14edc1"
+    },
+    "name": "Pulsar AI",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "pulsarai",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "ff4e53"
+  },
+  {
+    "_id": {
+      "$oid": "62c95e46f8fc105d0f14edc3"
+    },
+    "name": "Qarva",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "qarva",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "fda302"
+  },
+  {
+    "_id": {
+      "$oid": "62c960c5f8fc105d0f14edc5"
+    },
+    "name": "AltexSoft",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "altexsoft",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "018eaa"
+  },
+  {
+    "_id": {
+      "$oid": "62c96137f8fc105d0f14edc7"
+    },
+    "name": "Space",
+    "urlName": "space",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "0096ff"
+  },
+  {
+    "_id": {
+      "$oid": "62c96363f8fc105d0f14edc9"
+    },
+    "name": "Epam",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "epam",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "00b5d1"
+  },
+  {
+    "_id": {
+      "$oid": "62c96411f8fc105d0f14edcc"
+    },
+    "name": "Flat Rock Technology",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "flatrocktechnology",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "8c0838"
+  },
+  {
+    "_id": {
+      "$oid": "62c987b80b60c9984e4afa23"
+    },
+    "name": "Pasha Bank",
+    "urlName": "pashabank",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "008852"
+  },
+  {
+    "_id": {
+      "$oid": "62c988ab0b60c9984e4afa27"
+    },
+    "name": "Credo Bank",
+    "urlName": "credobank",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "72b1d8"
+  },
+  {
+    "_id": {
+      "$oid": "62c9897f0b60c9984e4afa29"
+    },
+    "name": "Betlive",
+    "urlName": "betlive",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "ff003b"
+  },
+  {
+    "_id": {
+      "$oid": "62c98a620b60c9984e4afa2b"
+    },
+    "name": "LavaPi",
+    "urlName": "lavapi",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "ff804d"
+  },
+  {
+    "_id": {
+      "$oid": "62c98ad50b60c9984e4afa2e"
+    },
+    "name": "Sweeft Digital",
+    "urlName": "sweeftdigital",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "4900af"
+  },
+  {
+    "_id": {
+      "$oid": "62c98bbe0b60c9984e4afa30"
+    },
+    "name": "AzRy",
+    "urlName": "azry",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "00d1b4"
+  },
+  {
+    "_id": {
+      "$oid": "62c98c2c0b60c9984e4afa32"
+    },
+    "name": "Gegidze • გეგიძე",
+    "urlName": "gegidze",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "000000"
+  },
+  {
+    "_id": {
+      "$oid": "62c98cb30b60c9984e4afa34"
+    },
+    "name": "Omedia",
+    "urlName": "omedia",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "ff3936"
+  },
+  {
+    "_id": {
+      "$oid": "62c98d340b60c9984e4afa36"
+    },
+    "name": "REDBERRY",
+    "urlName": "redberry",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "ff1400"
+  },
+  {
+    "_id": {
+      "$oid": "6352a4b107e9f07554400277"
+    },
+    "name": "Optio.Ai",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "optioai",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "82cc00",
+    "isRestricted": false,
+    "rname": "iA.oitpO"
+  },
+  {
+    "_id": {
+      "$oid": "6352a8ed07e9f07554400278"
+    },
+    "name": "Spinom Digital",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "spinomdigital",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "f99136",
+    "isRestricted": false,
+    "rname": "latigiD monipS"
+  },
+  {
+    "_id": {
+      "$oid": "6352ada507e9f0755440027a"
+    },
+    "name": "Noxtton",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "noxtton",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "1d9cf7",
+    "isRestricted": false,
+    "rname": "nottxoN"
+  },
+  {
+    "_id": {
+      "$oid": "6352b06707e9f0755440027c"
+    },
+    "name": "TNET",
+    "vacancyCount": 0,
+    "reviewCount": 0,
+    "urlName": "tnet",
+    "documentsCount": 0,
+    "sumOfRatings": 0,
+    "color": "00bcd4",
+    "isRestricted": false,
+    "rname": "TENT"
+  }
+]
