@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 export function CompanyCardBase(args: any) {
   const { children, company } = args;
-  const { name, urlName, _id, reviewCount, vacancyCount, sumOfRatings, color } = company;
+  const { name, urlName, color } = company;
   const image = getCompanyImage(name as any);
   const coverImage = getCompanyCoverImage(name);
 

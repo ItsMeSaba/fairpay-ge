@@ -1,0 +1,64 @@
+@reference "tailwindcss";
+
+.page {
+  .company {
+    @apply py-8 px-4 md:px-10 grid grid-cols-1 md:grid-cols-[1fr_4fr];
+
+    .image {
+      @apply w-30 md:w-60;
+
+      img {
+        @apply rounded-[20px];
+      }
+    }
+
+    .center {
+      @apply flex flex-col justify-between py-2 px-2 md:px-10;
+
+      .companyName {
+        @apply text-3xl py-2 md:py-0 md:text-4xl;
+      }
+
+      .buttons {
+        @apply flex;
+
+        * {
+          @apply text-base py-3.5 px-5 cursor-pointer;
+          text-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
+        }
+
+        .active {
+          @apply bg-[rgba(50,50,50,0.1)] rounded-[5px];
+        }
+      }
+    }
+  }
+
+  .bottom {
+    @apply mx-auto;
+
+    .addDataButtonsPlaceHolder {
+      @apply grid grid-cols-[1fr_4fr] px-[6%] justify-items-start;
+
+      .addDataButtons {
+        @apply max-w-[1100px] p-[2.5rem_3rem];
+      }
+    }
+
+    .upperWave {
+      @apply top-0 left-0 w-full overflow-hidden leading-none relative;
+
+      svg {
+        @apply top-0 relative block h-[60px] md:h-[156px] w-[calc(120%_+_1.3px)];
+      }
+    }
+
+    .bottomWave {
+      @apply top-0 left-0 w-full overflow-hidden leading-none;
+
+      svg {
+        @apply relative block h-[156px] w-[calc(176%_+_1.3px)];
+      }
+    }
+  }
+}

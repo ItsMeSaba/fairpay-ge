@@ -1,0 +1,43 @@
+@reference 'tailwindcss';
+
+.outlineOne {
+  position: absolute;
+  transform: scale(0.5);
+  transform-origin: left top;
+  left: -10%;
+  z-index: -1;
+}
+
+.companySalary {
+  @apply bg-white grid grid-cols-[3fr_1fr] items-center w-[95%];
+  @apply max-w-[1000px] py-8 px-2 mx-auto my-8 rounded-lg text-left;
+  @apply md:grid-cols-[1fr_3fr_1fr] md:px-4 md:w-[90%];
+
+  &[data-hide-company-data='true'] {
+    @apply grid-cols-[3fr_1fr] max-w-[800px];
+  }
+
+  .image {
+    @apply items-center hidden md:flex;
+
+    img {
+      @apply rounded-[10px] min-w-[100px];
+    }
+  }
+
+  .info {
+    @apply md:pl-10 text-base;
+
+    .position {
+      @apply text-lg pb-4;
+    }
+  }
+
+  .salary {
+    text-align: center;
+    padding: 0px 0;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    color: rgb(20, 20, 20);
+  }
+}

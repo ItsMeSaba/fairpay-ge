@@ -1,7 +1,7 @@
-import style from "./styles.module.scss";
-import Link from "next/link";
-import AccountCircleRoundedIcon from "@/assets/svgs/icons/account-circle.svg";
-import MenuIcon from "@/assets/svgs/icons/menu.svg";
+import styles from './styles.module.scss';
+import Link from 'next/link';
+import AccountCircleRoundedIcon from '@/assets/svgs/icons/account-circle.svg';
+import MenuIcon from '@/assets/svgs/icons/menu.svg';
 
 interface Args {
   openAuth?: (...args: any) => any;
@@ -10,36 +10,34 @@ interface Args {
 
 export function Header(args: Args) {
   const { openAuth, openSliderMenu } = args;
-  // const { user, status } = useCheckAuth();
-  // const { status } = useContext(GlobalContext).authData;
 
   return (
-    <header className={style.header}>
-      <div className={style.websiteName}>
+    <header className={styles.header}>
+      <div className={styles.websiteName}>
         <Link href="/">
           <h1>Fairpay</h1>
         </Link>
 
-        <h6>Tech</h6>
+        <h6 className={styles.websiteCategory}>Tech</h6>
 
-        <div className={style.pill}>BETA</div>
+        <p className={styles.pill}>DEMO</p>
       </div>
 
-      <div className={style.search}>{/* <Search /> */}</div>
+      <div className={styles.search}>{/* <Search /> */}</div>
 
-      <ul className={style.links}>
+      <ul className={styles.links}>
         <li>
           <Link href="/salaries">ანაზღაურებები</Link>
 
           <Link href="/companies">კომპანიები</Link>
         </li>
 
-        <li onClick={openAuth}>
+        {/* <li onClick={openAuth}>
           <AccountCircleRoundedIcon className="text-black" />
-        </li>
+        </li> */}
       </ul>
 
-      <div className={style.burgerButton} onClick={openSliderMenu}>
+      <div className={styles.burgerButton} onClick={openSliderMenu}>
         <MenuIcon />
       </div>
     </header>

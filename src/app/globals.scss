@@ -1,17 +1,17 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 // TODO: Switch to local fonts
-@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Maitree:wght@200;300;400;500;600;700&family=Noto+Sans+Georgian:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Maitree:wght@200;300;400;500;600;700&family=Noto+Sans+Georgian:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&display=swap');
 
 body {
   overflow-x: hidden;
   background: var(--background);
   color: var(--foreground);
-  font-family: "Noto Sans Georgian", sans-serif;
+  font-family: 'Noto Sans Georgian', sans-serif;
 }
 
 @utility container {
-  @apply my-8 py-6 md:my-16 md:py-12 mx-auto;
+  @apply my-8 py-12 px-8 md:px-6 md:my-16 md:py-12 mx-auto;
 }
 
 @layer components {
@@ -24,17 +24,13 @@ body {
       left: 0;
       bottom: 0;
       display: block;
-      content: "";
+      content: '';
       height: 1rem;
       top: 85%;
       width: 100%;
       left: 0.9rem;
       border-radius: 0.2rem;
-      background: linear-gradient(
-        to right,
-        rgba(237, 76, 103, 0.267),
-        rgba(165, 94, 234, 0.267)
-      );
+      background: linear-gradient(to right, rgba(237, 76, 103, 0.267), rgba(165, 94, 234, 0.267));
     }
   }
 }

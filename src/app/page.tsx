@@ -1,8 +1,8 @@
-import monitor from "@/assets/images/monitor.png";
-import womanYellowBlob from "@/assets/images/woman-yellow-blob.png";
-import manYellowBlob from "@/assets/images/man-yellow-blob.png";
-import { Hero } from "@/components/sections/hero/Hero";
-import { TextAndImage } from "@/components/sections/text-and-image/TextAndImage";
+import monitor from '@/assets/images/monitor.png';
+import womanYellowBlob from '@/assets/images/woman-yellow-blob.png';
+import manYellowBlob from '@/assets/images/man-yellow-blob.png';
+import { Hero } from '@/components/sections/hero/Hero';
+import { TextAndImage } from '@/components/sections/text-and-image/TextAndImage';
 
 export default function Index() {
   return (
@@ -11,23 +11,22 @@ export default function Index() {
 
       <TextAndImage
         image={manYellowBlob}
-        title="რა არის Fairpay?"
-        description="Fairpay არის პლატფორმა რომელიც სწორი კარიერული არჩევნის გაკეთებაში
-            დაგეხმარება"
+        title="მიიღე გადაწყვეტილება მარტივად"
+        description="Fairpay გაძლევს შესაძლებლობას გაიგო რეალური ინფორმაცია ხელფასებზე, პოზიციებზე და სამუშაო გარემოზე — უშუალოდ თანამშრომლებისგან."
         reverse={true}
       />
 
       <TextAndImage
         image={womanYellowBlob}
-        title="რას მთავაზობს Fairpay?"
-        description="Fairpay საშუალებას გაძლევთ გასაუბრებაზე დროის ხარჯვის გარეშე გაიგოთ
-            კომპანიაში არსებული პირობები"
+        title="დაზოგე დრო"
+        theme="light-red"
+        description="თავიდან აირიდე დროის ფლანგვა არასასურველ კომპანიებზე."
       />
 
       <TextAndImage
         image={monitor}
-        title="განვითარება"
-        description="ამ ეტპაზე Fairpay განკუთვნილია მხოლოდ დეველოპერებისთვის/პროგრამისტებისთვის. წარმატების შემთხვევაში პრიორიტეტებში რჩება სხვა დარგების ინტეგრირება"
+        title="ანონიმური ინფორმაცია"
+        description="გაუზიარე რეალური გამოცდილება ანონიმურად — დაეხმარე სხვებსაც და საკუთარ თავსაც გააზრებული არჩევანის გაკეთებაში."
         reverse={true}
         imageClassName="w-[75%]"
       />

@@ -1,9 +1,9 @@
-import style from "./styles.module.scss";
-import BlobOne from "@/assets/svgs/blobs/blob-one.svg";
-import BlobTwo from "@/assets/svgs/blobs/blob-two.svg";
-import bussinesMan from "@/assets/images/business-man.png";
-import HeroWave from "@/assets/svgs/hero-wave.svg";
-import Image from "next/image";
+import style from './styles.module.scss';
+import BlobOne from '@/assets/svgs/blobs/blob-one.svg';
+import BlobTwo from '@/assets/svgs/blobs/blob-two.svg';
+import bussinesMan from '@/assets/images/business-man.png';
+import HeroWave from '@/assets/svgs/waves/hero-wave.svg';
+import Image from 'next/image';
 
 export function Hero() {
   return (
@@ -17,10 +17,9 @@ export function Hero() {
       </div>
 
       <div className={style.content}>
-        <h1>
+        <h1 className={style.title}>
           იცოდე შენი
-          <br />
-          <span>ფასი</span>
+          <span className={style.bigText}>ფასი</span>
         </h1>
       </div>
 

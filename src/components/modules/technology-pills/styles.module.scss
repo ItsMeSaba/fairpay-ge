@@ -1,0 +1,13 @@
+.technologies {
+  margin: 0.7rem 0 0 0;
+
+  .technology {
+    display: inline-block;
+    word-break: break-all;
+    font-size: 0.9rem;
+    margin: 0.3rem 0.4rem 0 0;
+    border: solid 1.5px rgba(40, 40, 40, 1);
+    border-radius: 1000px;
+    padding: 0.2rem 0.75rem;
+  }
+}
