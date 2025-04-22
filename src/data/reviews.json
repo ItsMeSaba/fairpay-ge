@@ -1,0 +1,772 @@
+[
+  {
+    "company": "Vendoo",
+    "companyId": "619d302ac6dad46cd80e029c",
+    "rating": 2.3,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 0,
+    "renewDate": "2025-01-25"
+  },
+  {
+    "company": "Vendoo",
+    "companyId": "619d302ac6dad46cd80e029c",
+    "rating": 3.3,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 15,
+    "renewDate": "2025-03-13"
+  },
+  {
+    "company": "Vendoo",
+    "companyId": "619d302ac6dad46cd80e029c",
+    "rating": 3.8,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 4,
+    "renewDate": "2025-02-02"
+  },
+  {
+    "company": "Lemondo",
+    "companyId": "619d3187c6dad46cd80e02a3",
+    "rating": 3.2,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "QA Engineer",
+    "likeDislikeDifference": 6,
+    "renewDate": "2025-04-11"
+  },
+  {
+    "company": "Lemondo",
+    "companyId": "619d3187c6dad46cd80e02a3",
+    "rating": 1.2,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "DevOps Engineer",
+    "likeDislikeDifference": 14,
+    "renewDate": "2025-01-27"
+  },
+  {
+    "company": "Lemondo",
+    "companyId": "619d3187c6dad46cd80e02a3",
+    "rating": 2.0,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 11,
+    "renewDate": "2025-01-24"
+  },
+  {
+    "company": "Tivendis",
+    "companyId": "61bf42b76b63c4392505da5f",
+    "rating": 2.9,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "QA Engineer",
+    "likeDislikeDifference": 19,
+    "renewDate": "2025-02-11"
+  },
+  {
+    "company": "ვაბაკო",
+    "companyId": "61bf19156b63c4392505da55",
+    "rating": 1.8,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Mobile Developer",
+    "likeDislikeDifference": 16,
+    "renewDate": "2025-02-11"
+  },
+  {
+    "company": "ვაბაკო",
+    "companyId": "61bf19156b63c4392505da55",
+    "rating": 1.1,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Frontend Developer",
+    "likeDislikeDifference": 2,
+    "renewDate": "2025-02-02"
+  },
+  {
+    "company": "ვაბაკო",
+    "companyId": "61bf19156b63c4392505da55",
+    "rating": 1.9,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 8,
+    "renewDate": "2025-03-05"
+  },
+  {
+    "company": "ProFair Games",
+    "companyId": null,
+    "rating": 3.2,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 14,
+    "renewDate": "2025-04-12"
+  },
+  {
+    "company": "ProFair Games",
+    "companyId": null,
+    "rating": 3.8,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 14,
+    "renewDate": "2025-01-22"
+  },
+  {
+    "company": "Twino",
+    "companyId": "619d33afc6dad46cd80e02ab",
+    "rating": 3.0,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 0,
+    "renewDate": "2025-03-26"
+  },
+  {
+    "company": "Dexfinity",
+    "companyId": "619d319cc6dad46cd80e02a4",
+    "rating": 0.7,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 14,
+    "renewDate": "2025-02-15"
+  },
+  {
+    "company": "IRAO",
+    "companyId": "619d31b4c6dad46cd80e02a5",
+    "rating": 1.8,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 11,
+    "renewDate": "2025-02-19"
+  },
+  {
+    "company": "იტალიური კომპანია",
+    "companyId": null,
+    "rating": 3.9,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 27,
+    "renewDate": "2025-02-21"
+  },
+  {
+    "company": "იტალიური კომპანია",
+    "companyId": null,
+    "rating": 1.7,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Mobile Developer",
+    "likeDislikeDifference": 17,
+    "renewDate": "2025-01-30"
+  },
+  {
+    "company": "იტალიური კომპანია",
+    "companyId": null,
+    "rating": 2.1,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Frontend Developer",
+    "likeDislikeDifference": 12,
+    "renewDate": "2025-04-04"
+  },
+  {
+    "company": "საგანმანათლებლო ტექნოლოგიები საქართველო",
+    "companyId": "61bf3c856b63c4392505da5c",
+    "rating": 2.0,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 30,
+    "renewDate": "2025-04-15"
+  },
+  {
+    "company": "Dinespace",
+    "companyId": "619d31c9c6dad46cd80e02a7",
+    "rating": 1.8,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Frontend Developer",
+    "likeDislikeDifference": 11,
+    "renewDate": "2025-01-30"
+  },
+  {
+    "company": "Dinespace",
+    "companyId": "619d31c9c6dad46cd80e02a7",
+    "rating": 1.4,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 23,
+    "renewDate": "2025-03-04"
+  },
+  {
+    "company": "Dinespace",
+    "companyId": "619d31c9c6dad46cd80e02a7",
+    "rating": 4.9,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 21,
+    "renewDate": "2025-03-11"
+  },
+  {
+    "company": "Georgia Tech Tbilisi",
+    "companyId": "619d395bc6dad46cd80e02ad",
+    "rating": 2.7,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "QA Engineer",
+    "likeDislikeDifference": 2,
+    "renewDate": "2025-03-21"
+  },
+  {
+    "company": "Georgia Tech Tbilisi",
+    "companyId": "619d395bc6dad46cd80e02ad",
+    "rating": 1.0,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 5,
+    "renewDate": "2025-03-13"
+  },
+  {
+    "company": "Websense",
+    "companyId": "61bf423b6b63c4392505da5e",
+    "rating": 2.3,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 29,
+    "renewDate": "2025-02-13"
+  },
+  {
+    "company": "Websense",
+    "companyId": "61bf423b6b63c4392505da5e",
+    "rating": 0.7,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 4,
+    "renewDate": "2025-04-07"
+  },
+  {
+    "company": "SmartWeb",
+    "companyId": "61bf37fe6b63c4392505da59",
+    "rating": 2.1,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Mobile Developer",
+    "likeDislikeDifference": 18,
+    "renewDate": "2025-03-20"
+  },
+  {
+    "company": "Appidea",
+    "companyId": "619d3139c6dad46cd80e02a1",
+    "rating": 1.0,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 24,
+    "renewDate": "2025-04-10"
+  },
+  {
+    "company": "Appidea",
+    "companyId": "619d3139c6dad46cd80e02a1",
+    "rating": 1.2,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Frontend Developer",
+    "likeDislikeDifference": 10,
+    "renewDate": "2025-02-15"
+  },
+  {
+    "company": "Appidea",
+    "companyId": "619d3139c6dad46cd80e02a1",
+    "rating": 3.4,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 2,
+    "renewDate": "2025-04-01"
+  },
+  {
+    "company": "Linton Group",
+    "companyId": "61bf28426b63c4392505da57",
+    "rating": 1.7,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "QA Engineer",
+    "likeDislikeDifference": 8,
+    "renewDate": "2025-02-07"
+  },
+  {
+    "company": "Linton Group",
+    "companyId": "61bf28426b63c4392505da57",
+    "rating": 3.3,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "QA Engineer",
+    "likeDislikeDifference": 26,
+    "renewDate": "2025-03-06"
+  },
+  {
+    "company": "63BITS",
+    "companyId": "619d3174c6dad46cd80e02a2",
+    "rating": 1.4,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 5,
+    "renewDate": "2025-03-20"
+  },
+  {
+    "company": "63BITS",
+    "companyId": "619d3174c6dad46cd80e02a2",
+    "rating": 4.5,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 16,
+    "renewDate": "2025-03-04"
+  },
+  {
+    "company": "63BITS",
+    "companyId": "619d3174c6dad46cd80e02a2",
+    "rating": 1.4,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 13,
+    "renewDate": "2025-03-22"
+  },
+  {
+    "company": "NLYC",
+    "companyId": "619d31bbc6dad46cd80e02a6",
+    "rating": 2.4,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 3,
+    "renewDate": "2025-04-19"
+  },
+  {
+    "company": "NLYC",
+    "companyId": "619d31bbc6dad46cd80e02a6",
+    "rating": 1.8,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 17,
+    "renewDate": "2025-02-01"
+  },
+  {
+    "company": "NLYC",
+    "companyId": "619d31bbc6dad46cd80e02a6",
+    "rating": 3.6,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 6,
+    "renewDate": "2025-04-18"
+  },
+  {
+    "company": "TAZE Technologies",
+    "companyId": "61bf36d56b63c4392505da58",
+    "rating": 2.3,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 27,
+    "renewDate": "2025-03-31"
+  },
+  {
+    "company": "Helix Nebula Capital",
+    "companyId": "61bf3a616b63c4392505da5a",
+    "rating": 4.6,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "QA Engineer",
+    "likeDislikeDifference": 23,
+    "renewDate": "2025-01-23"
+  },
+  {
+    "company": "Exadel",
+    "companyId": "619d3235c6dad46cd80e02a9",
+    "rating": 1.6,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 27,
+    "renewDate": "2025-03-21"
+  },
+  {
+    "company": "Scandiweb",
+    "companyId": "619d3061c6dad46cd80e029d",
+    "rating": 0.6,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "DevOps Engineer",
+    "likeDislikeDifference": 4,
+    "renewDate": "2025-03-16"
+  },
+  {
+    "company": "Neollet",
+    "companyId": "619d3074c6dad46cd80e029e",
+    "rating": 4.5,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 27,
+    "renewDate": "2025-03-17"
+  },
+  {
+    "company": "Neollet",
+    "companyId": "619d3074c6dad46cd80e029e",
+    "rating": 2.1,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 6,
+    "renewDate": "2025-01-26"
+  },
+  {
+    "company": "კომპანია",
+    "companyId": null,
+    "rating": 2.6,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Frontend Developer",
+    "likeDislikeDifference": 24,
+    "renewDate": "2025-02-26"
+  },
+  {
+    "company": "კომპანია",
+    "companyId": null,
+    "rating": 3.5,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Mobile Developer",
+    "likeDislikeDifference": 24,
+    "renewDate": "2025-01-31"
+  },
+  {
+    "company": "კომპანია",
+    "companyId": null,
+    "rating": 4.6,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 20,
+    "renewDate": "2025-04-10"
+  },
+  {
+    "company": "აწარმოე საქართველოში",
+    "companyId": "619d3951c6dad46cd80e02ac",
+    "rating": 1.8,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 27,
+    "renewDate": "2025-01-29"
+  },
+  {
+    "company": "აწარმოე საქართველოში",
+    "companyId": "619d3951c6dad46cd80e02ac",
+    "rating": 4.7,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 9,
+    "renewDate": "2025-02-06"
+  },
+  {
+    "company": "აწარმოე საქართველოში",
+    "companyId": "619d3951c6dad46cd80e02ac",
+    "rating": 2.5,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 10,
+    "renewDate": "2025-03-27"
+  },
+  {
+    "company": "UniPAY",
+    "companyId": "619d3115c6dad46cd80e029f",
+    "rating": 1.0,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 25,
+    "renewDate": "2025-03-27"
+  },
+  {
+    "company": "Gulf",
+    "companyId": "619d3131c6dad46cd80e02a0",
+    "rating": 2.3,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 16,
+    "renewDate": "2025-04-09"
+  },
+  {
+    "company": "CoachNow",
+    "companyId": "619d3211c6dad46cd80e02a8",
+    "rating": 1.0,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 29,
+    "renewDate": "2025-04-19"
+  },
+  {
+    "company": "ტეკი",
+    "companyId": null,
+    "rating": 4.8,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 6,
+    "renewDate": "2025-01-19"
+  },
+  {
+    "company": "ტეკი",
+    "companyId": null,
+    "rating": 2.4,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 20,
+    "renewDate": "2025-03-19"
+  },
+  {
+    "company": "ტეკი",
+    "companyId": null,
+    "rating": 1.3,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 21,
+    "renewDate": "2025-04-09"
+  },
+  {
+    "company": "საქართველოს მელიორაცია",
+    "companyId": "619d3988c6dad46cd80e02ae",
+    "rating": 2.5,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 2,
+    "renewDate": "2025-03-17"
+  },
+  {
+    "company": "საქართველოს მელიორაცია",
+    "companyId": "619d3988c6dad46cd80e02ae",
+    "rating": 4.3,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Tech Lead",
+    "likeDislikeDifference": 9,
+    "renewDate": "2025-02-01"
+  },
+  {
+    "company": "მონაცემთა ანალიზის ლაბორატორია",
+    "companyId": null,
+    "rating": 1.6,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "QA Engineer",
+    "likeDislikeDifference": 0,
+    "renewDate": "2025-02-03"
+  },
+  {
+    "company": "მონაცემთა ანალიზის ლაბორატორია",
+    "companyId": null,
+    "rating": 3.5,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "DevOps Engineer",
+    "likeDislikeDifference": 11,
+    "renewDate": "2025-02-25"
+  },
+  {
+    "company": "მონაცემთა ანალიზის ლაბორატორია",
+    "companyId": null,
+    "rating": 1.2,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 20,
+    "renewDate": "2025-01-22"
+  },
+  {
+    "company": "საჯარო რეესტრის ეროვნული სააგენტო",
+    "companyId": "61bf3d726b63c4392505da5d",
+    "rating": 3.6,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 8,
+    "renewDate": "2025-01-31"
+  },
+  {
+    "company": "Eurasia Group",
+    "companyId": "61bf3b3b6b63c4392505da5b",
+    "rating": 3.8,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 9,
+    "renewDate": "2025-02-22"
+  },
+  {
+    "company": "Fly.Ge",
+    "companyId": null,
+    "rating": 2.5,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 0,
+    "renewDate": "2025-03-27"
+  },
+  {
+    "company": "Gegidze • გეგიძე",
+    "companyId": null,
+    "rating": 3.8,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 5,
+    "renewDate": "2025-04-16"
+  },
+  {
+    "company": "Gegidze • გეგიძე",
+    "companyId": null,
+    "rating": 2.7,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Frontend Developer",
+    "likeDislikeDifference": 29,
+    "renewDate": "2025-02-22"
+  },
+  {
+    "company": "Gegidze • გეგიძე",
+    "companyId": null,
+    "rating": 3.8,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Salary could be more competitive.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 20,
+    "renewDate": "2025-02-27"
+  },
+  {
+    "company": "Webzool Creative",
+    "companyId": null,
+    "rating": 1.3,
+    "positiveReview": "Flexible working hours and remote options.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 9,
+    "renewDate": "2025-03-15"
+  },
+  {
+    "company": "Webzool Creative",
+    "companyId": null,
+    "rating": 1.1,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Limited career advancement paths.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 9,
+    "renewDate": "2025-02-17"
+  },
+  {
+    "company": "Webzool Creative",
+    "companyId": null,
+    "rating": 0.9,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Junior Developer",
+    "likeDislikeDifference": 13,
+    "renewDate": "2025-02-05"
+  },
+  {
+    "company": "1-Backoffice",
+    "companyId": null,
+    "rating": 4.2,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 2,
+    "renewDate": "2025-03-02"
+  },
+  {
+    "company": "Blocshop",
+    "companyId": null,
+    "rating": 1.1,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "DevOps Engineer",
+    "likeDislikeDifference": 0,
+    "renewDate": "2025-01-21"
+  },
+  {
+    "company": "Blocshop",
+    "companyId": null,
+    "rating": 2.8,
+    "positiveReview": "Modern tech stack and interesting projects.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Backend Developer",
+    "likeDislikeDifference": 3,
+    "renewDate": "2025-04-18"
+  },
+  {
+    "company": "ConvieneOnline",
+    "companyId": null,
+    "rating": 5.0,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Occasional overtime and tight deadlines.",
+    "position": "Mobile Developer",
+    "likeDislikeDifference": 23,
+    "renewDate": "2025-03-01"
+  },
+  {
+    "company": "პროკრედიტ ბანკი",
+    "companyId": null,
+    "rating": 2.1,
+    "positiveReview": "Supportive team and a healthy work culture.",
+    "negativeReview": "Internal communication can be improved.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 18,
+    "renewDate": "2025-03-08"
+  },
+  {
+    "company": "პროკრედიტ ბანკი",
+    "companyId": null,
+    "rating": 2.6,
+    "positiveReview": "Management is transparent and approachable.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Software Engineer",
+    "likeDislikeDifference": 11,
+    "renewDate": "2025-02-05"
+  },
+  {
+    "company": "პროკრედიტ ბანკი",
+    "companyId": null,
+    "rating": 3.5,
+    "positiveReview": "Great opportunities for learning and growth.",
+    "negativeReview": "Processes are not clearly documented.",
+    "position": "Full Stack Developer",
+    "likeDislikeDifference": 10,
+    "renewDate": "2025-02-07"
+  }
+]

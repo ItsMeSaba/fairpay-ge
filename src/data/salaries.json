@@ -1,0 +1,1372 @@
+[
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfd0"
+    },
+    "company": "Vendoo",
+    "salary": 4500,
+    "position": "Senior Full Stack Developer (Laravel+Vue)",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-20T18:11:28.580Z"
+    },
+    "source": "ttge",
+    "currency": "gel",
+    "url": "vendoo/CWROL-senior-full-stack-developer-laravelvue",
+    "__v": 0,
+    "seniority": "senior",
+    "technologies": ["php", "laravel", "vue", "mysql"],
+    "category": "fullstack",
+    "companyId": {
+      "$oid": "619d302ac6dad46cd80e029c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfd5"
+    },
+    "company": "Lemondo",
+    "salary": 5000,
+    "position": "უფროსი Android დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-20T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "333276",
+    "__v": 0,
+    "seniority": "senior",
+    "technologies": ["java", "kotlin"],
+    "companyId": {
+      "$oid": "619d3187c6dad46cd80e02a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfd7"
+    },
+    "company": "Tivendis",
+    "salary": 2000,
+    "position": "Fullstack PHP დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-15T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "332429",
+    "__v": 0,
+    "seniority": "middle",
+    "technologies": ["php", "mysql", "postgresql"],
+    "companyId": {
+      "$oid": "61bf42b76b63c4392505da5f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfdd"
+    },
+    "company": "ვაბაკო",
+    "salary": 3000,
+    "position": "უფროსი Angular დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-11T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "331344",
+    "__v": 0,
+    "technologies": ["angular"],
+    "senioriy": "senior",
+    "companyId": {
+      "$oid": "61bf19156b63c4392505da55"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfdf"
+    },
+    "company": "ProFair Games",
+    "salary": 2500,
+    "position": "HTML5 თამაშის დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-10T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "331233",
+    "__v": 0,
+    "technologies": ["react", "node", "typescript", "nestjs"],
+    "senioriy": "junior"
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfda"
+    },
+    "company": "Twino",
+    "salary": 1850,
+    "position": "პროგრამული დეველოპერი",
+    "approved": false,
+    "date": {
+      "$date": "2021-10-12T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "euro",
+    "url": "331728",
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d33afc6dad46cd80e02ab"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfe0"
+    },
+    "company": "Dexfinity",
+    "salary": 8000,
+    "position": "Full-stack დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-07T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "330751",
+    "__v": 0,
+    "seniority": "senior",
+    "technologies": ["php", "angular", "vue", "mysql", "nodejs", "nosql"],
+    "companyId": {
+      "$oid": "619d319cc6dad46cd80e02a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfca"
+    },
+    "company": "IRAO",
+    "salary": 3000,
+    "position": "Full stack Developer",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-27T18:11:28.573Z"
+    },
+    "source": "ttge",
+    "currency": "gel",
+    "url": "irao/1Yqdm-full-stack-developer",
+    "__v": 0,
+    "seniority": "middle",
+    "technologies": ["c#", ".net", "angular", "mssql"],
+    "companyId": {
+      "$oid": "619d31b4c6dad46cd80e02a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfcb"
+    },
+    "company": "იტალიური კომპანია",
+    "salary": 1200,
+    "position": "უფროსი PHP ბექენდ დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-27T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "334827",
+    "__v": 0,
+    "category": "backend",
+    "seniority": "senior",
+    "technologies": ["php"]
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfcd"
+    },
+    "company": "საგანმანათლებლო ტექნოლოგიები საქართველო",
+    "salary": 800,
+    "position": "Full Stack JS დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-25T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "334287",
+    "__v": 0,
+    "category": "backend",
+    "seniority": null,
+    "technologies": ["react", "nodejs", "mongodb", "mysql"],
+    "companyId": {
+      "$oid": "61bf3c856b63c4392505da5c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfdb"
+    },
+    "company": "Twino",
+    "salary": 800,
+    "position": "უმცროსი პროგრამული დეველოპერი",
+    "approved": false,
+    "date": {
+      "$date": "2021-10-12T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "euro",
+    "url": "331740",
+    "__v": 0,
+    "seniority": "junior",
+    "companyId": {
+      "$oid": "619d33afc6dad46cd80e02ab"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfde"
+    },
+    "company": "ვაბაკო",
+    "salary": 3000,
+    "position": "უფროსი Full Stack დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-11T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "331343",
+    "__v": 0,
+    "technologies": ["node", "react", "mysql", "postgresql"],
+    "senioriy": "senior",
+    "category": "fullstack",
+    "companyId": {
+      "$oid": "61bf19156b63c4392505da55"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfcf"
+    },
+    "company": "Dinespace",
+    "salary": 5000,
+    "position": ".NET Core დეველოპერი",
+    "approved": false,
+    "date": {
+      "$date": "2021-10-22T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "333941",
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d31c9c6dad46cd80e02a7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfe2"
+    },
+    "company": "Georgia Tech Tbilisi",
+    "salary": 7000,
+    "position": "Front-End დეველოპერი",
+    "approved": false,
+    "date": {
+      "$date": "2021-10-06T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "330470",
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d395bc6dad46cd80e02ad"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfcc"
+    },
+    "company": "იტალიური კომპანია",
+    "salary": 1200,
+    "position": "უფროსი ფრონტენდ დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-27T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "334829",
+    "__v": 0,
+    "seniority": "senior",
+    "technologies": [""]
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfd9"
+    },
+    "company": "Dexfinity",
+    "salary": 3000,
+    "position": "უფროსი PHP დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-13T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "331867",
+    "__v": 0,
+    "seniority": "senior",
+    "technologies": ["php", "laravel", "mysql", "nosql"],
+    "caregory": "backend",
+    "companyId": {
+      "$oid": "619d319cc6dad46cd80e02a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfd1"
+    },
+    "company": "Vendoo",
+    "salary": 3500,
+    "position": "Front-end Developer (Vue.js)",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-20T18:11:28.579Z"
+    },
+    "source": "ttge",
+    "currency": "gel",
+    "url": "vendoo/NL8Z7-front-end-developer-vuejs",
+    "__v": 0,
+    "seniority": "middle",
+    "technologies": ["vue", "nuxtjs"],
+    "category": "frontend",
+    "companyId": {
+      "$oid": "619d302ac6dad46cd80e029c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfd2"
+    },
+    "company": "Vendoo",
+    "salary": 3000,
+    "position": "Laravel Developer",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-20T18:11:28.579Z"
+    },
+    "source": "ttge",
+    "currency": "gel",
+    "url": "vendoo/350fZ-laravel-developer",
+    "__v": 0,
+    "seniority": "middle",
+    "technologies": ["php", "laravel", "mysql"],
+    "category": "backend",
+    "companyId": {
+      "$oid": "619d302ac6dad46cd80e029c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfe3"
+    },
+    "company": "Georgia Tech Tbilisi",
+    "salary": 7000,
+    "position": "Front-End გუნდის ლიდერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-06T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "330469",
+    "__v": 0,
+    "seniority": "lead",
+    "technologies": [""],
+    "companyId": {
+      "$oid": "619d395bc6dad46cd80e02ad"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "617c3950df32fe6a33f6cfd8"
+    },
+    "company": "Websense",
+    "salary": 3500,
+    "position": "Full Stack ვებდეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-10-14T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "332132",
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf423b6b63c4392505da5e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618117e2df376c5f8f8ee045"
+    },
+    "company": "საგანმანათლებლო ტექნოლოგიები საქართველო",
+    "salary": 500,
+    "position": "Full Stack დეველოპერის",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-01T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "335576",
+    "__v": 0,
+    "seniority": "junior",
+    "companyId": {
+      "$oid": "61bf3c856b63c4392505da5c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61842d9f89eeb19d1ca4a58d"
+    },
+    "company": "Exactpro",
+    "salary": 1350,
+    "position": "Junior Software Tester",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-02T18:59:43.129Z"
+    },
+    "source": "ttge",
+    "currency": "gel",
+    "url": "exactpro/S7cRo-junior-software-tester",
+    "__v": 0,
+    "category": "tester",
+    "seniority": "junior",
+    "companyId": {
+      "$oid": "619d32b7c6dad46cd80e02aa"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6188d49c67ddbb80e37ec362"
+    },
+    "company": "SmartWeb",
+    "position": "Front-End დეველოპერი",
+    "approved": true,
+    "currency": "gel",
+    "source": "fb",
+    "date": {
+      "$date": "2021-03-02T20:00:00Z"
+    },
+    "seniority": "junior",
+    "salary": 1200,
+    "technologies": [""],
+    "url": "groups/georgian.development/posts/1860021974155821",
+    "companyId": {
+      "$oid": "61bf37fe6b63c4392505da59"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6188e62767ddbb80e37ec364"
+    },
+    "company": "Appidea",
+    "position": "Unity Developer",
+    "seniority": "middle",
+    "category": "game",
+    "date": {
+      "$date": "2018-09-07T08:00:00Z"
+    },
+    "url": "groups/georgian.development/posts/1114595055365187/",
+    "source": "fb",
+    "currency": "gel",
+    "technologies": ["c#", "unity"],
+    "salary": 3500,
+    "companyId": {
+      "$oid": "619d3139c6dad46cd80e02a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618bf6b0814ad7e3f07100c0"
+    },
+    "company": "Linton Group",
+    "salary": 3000,
+    "position": "Senior Angular დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-09T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "337306",
+    "seniority": "senior",
+    "category": "frontend",
+    "technologies": ["angular", "typescript"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf28426b63c4392505da57"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618bf6b0814ad7e3f07100be"
+    },
+    "company": "63BITS",
+    "salary": 2000,
+    "position": "Junior ან MID, ASP.NET ვებ დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-09T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "337393",
+    "seniority": "junior",
+    "category": "backend",
+    "technologies": ["c#", "java", ".net"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3174c6dad46cd80e02a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618bf6b0814ad7e3f07100c3"
+    },
+    "company": "Georgia Tech Tbilisi",
+    "salary": 7000,
+    "position": "Back-End დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-10T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "337286",
+    "seniority": "middle",
+    "category": "backend",
+    "technologies": ["php", "mysql", "mongo"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d395bc6dad46cd80e02ad"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618bf6b0814ad7e3f07100bf"
+    },
+    "company": "Linton Group",
+    "salary": 3000,
+    "position": "Senior Full-Stack დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-09T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "337307",
+    "seniority": "senior",
+    "category": "fullstack",
+    "technologies": ["nodejs", "react", "typescript"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf28426b63c4392505da57"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618bf6b0814ad7e3f07100c1"
+    },
+    "company": "Linton Group",
+    "salary": 3000,
+    "position": "Senior ReactJS დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-09T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "337305",
+    "seniority": "senior",
+    "category": "frontend",
+    "technologies": ["react", "typescript"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf28426b63c4392505da57"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618c1a230e3c1482392f36e7"
+    },
+    "company": "NLYC",
+    "salary": 3000,
+    "currency": "gel",
+    "seniority": "middle",
+    "technologies": ["php", "vue", "react", "angular"],
+    "position": "Full Stack Developer",
+    "category": "fullstack",
+    "url": "nlyc/1Azwq-full-stack-developer",
+    "date": {
+      "$date": "2021-11-09T08:00:00Z"
+    },
+    "source": "ttge",
+    "approved": true,
+    "companyId": {
+      "$oid": "619d31bbc6dad46cd80e02a6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6190f9359412b24bd3ae450c"
+    },
+    "company": "TAZE Technologies",
+    "salary": 5000,
+    "position": "Java Developer",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-01T08:00:00Z"
+    },
+    "source": "hr.ge",
+    "currency": "gel",
+    "url": "197099/java-developer",
+    "__v": 0,
+    "seniority": "middle",
+    "caregory": "backend",
+    "technologies": ["java"],
+    "companyId": {
+      "$oid": "61bf36d56b63c4392505da58"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa008"
+    },
+    "company": "Helix Nebula Capital",
+    "salary": 1500,
+    "position": "Full-stack დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-18T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "339409",
+    "seniority": "middle",
+    "category": "fullstack",
+    "technologies": ["laravel", "react", "mysql"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf3a616b63c4392505da5a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa009"
+    },
+    "company": "Exadel",
+    "salary": 4500,
+    "position": "საშუალო/უფროსი JavaScript FullStack/Angular+Node დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-18T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "339260",
+    "seniority": "senior",
+    "category": "fullstack",
+    "technologies": ["angular", "node", "mongodb", "typescript", "nestjs"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3235c6dad46cd80e02a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa00a"
+    },
+    "company": "Exadel",
+    "salary": 4500,
+    "position": "უფროსი Javascript/React დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-18T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "339259",
+    "seniority": "senior",
+    "category": "frontend",
+    "technologies": ["react"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3235c6dad46cd80e02a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa00b"
+    },
+    "company": "Scandiweb",
+    "salary": 300,
+    "position": "უმცროსი ვებდეველოპერი/სტაჟიორი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-17T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "339172",
+    "seniority": "intern",
+    "category": "fullstack",
+    "technologies": [],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3061c6dad46cd80e029d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa00c"
+    },
+    "company": "Scandiweb",
+    "salary": 300,
+    "position": "უმცროსი React დეველოპერი/სტაჟიორი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-17T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "339175",
+    "seniority": "intern",
+    "category": "frontend",
+    "technologies": ["react"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3061c6dad46cd80e029d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa00d"
+    },
+    "company": "Neollet",
+    "salary": 3500,
+    "position": ".NET დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-17T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "339108",
+    "seniority": "middle",
+    "category": "backend",
+    "technologies": ["c#", ".net", "postgresql"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3074c6dad46cd80e029e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa00e"
+    },
+    "company": "კომპანია",
+    "salary": 1500,
+    "position": "React დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-17T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "339005",
+    "seniority": "middle",
+    "category": "frontend",
+    "technologies": ["react", "typescript"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa00f"
+    },
+    "company": "აწარმოე საქართველოში",
+    "salary": 2500,
+    "position": "ვებ-პროგრამისტი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-15T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "338437",
+    "seniority": null,
+    "category": "fullstack",
+    "technologies": ["php", "laravel", "posgresql"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3951c6dad46cd80e02ac"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa010"
+    },
+    "company": "UniPAY",
+    "salary": 3000,
+    "position": "PHP Laravel დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-14T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "338375",
+    "seniority": null,
+    "category": "backend",
+    "technologies": ["php", "mysql", "laravel "],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3115c6dad46cd80e029f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6197c86cf28ef999dd2fa011"
+    },
+    "company": "Gulf",
+    "salary": 4500,
+    "position": ".NET დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-11T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "337868",
+    "seniority": "string",
+    "category": "backend",
+    "technologies": ["c#", ".net", "mssql"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3131c6dad46cd80e02a0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61993787e7f720e56186e592"
+    },
+    "company": "CoachNow",
+    "salary": 4000,
+    "position": "Front-end developer (React)",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-18T17:59:35.919Z"
+    },
+    "source": "ttge",
+    "currency": "gel",
+    "url": "gs2qp/aJNwd-front-end-developer-react",
+    "seniority": "middle",
+    "category": "frontend",
+    "technologies": ["react", "angular"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3211c6dad46cd80e02a8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61a8f2ba5380610b9887cdd6"
+    },
+    "company": "ტეკი",
+    "salary": 800,
+    "position": "Laravel დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-30T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "341377",
+    "seniority": null,
+    "category": "backend",
+    "technologies": ["laravel", "mysql", "pgsql"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61a8f2ba5380610b9887cdd8"
+    },
+    "company": "Georgia Tech Tbilisi",
+    "salary": 7000,
+    "position": "Angular დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-27T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "340880",
+    "seniority": "middle",
+    "category": "frontend",
+    "technologies": ["angular", "javascript", "html/css"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d395bc6dad46cd80e02ad"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61a8f2ba5380610b9887cdd9"
+    },
+    "company": "საქართველოს მელიორაცია",
+    "salary": 2000,
+    "position": "ვებაპლიკაციების დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-26T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "340820",
+    "seniority": null,
+    "category": "fullstack",
+    "technologies": [
+      "php",
+      "laravel",
+      "mysql",
+      "pgsql",
+      "html/css",
+      "javascript",
+      "jquery",
+      "bootstrap"
+    ],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3988c6dad46cd80e02ae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61a8f2ba5380610b9887cdda"
+    },
+    "company": "საქართველოს მელიორაცია",
+    "salary": 2000,
+    "position": "GIS სისტემებისა და მონაცემთა ბაზების დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-11-26T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "340818",
+    "seniority": null,
+    "category": "database",
+    "technologies": ["mysql"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3988c6dad46cd80e02ae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61b7a2776a307d9a735e029b"
+    },
+    "company": "მონაცემთა ანალიზის ლაბორატორია",
+    "salary": 2650,
+    "position": "Android დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-13T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "343795",
+    "seniority": "middle",
+    "category": "mobile",
+    "technologies": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b7a2776a307d9a735e029c"
+    },
+    "company": "მონაცემთა ანალიზის ლაბორატორია",
+    "salary": 2650,
+    "position": "iOS დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-13T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "343793",
+    "seniority": "middle",
+    "category": "mobile",
+    "technologies": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61b7a2776a307d9a735e029e"
+    },
+    "company": "საჯარო რეესტრის ეროვნული სააგენტო",
+    "salary": 6800,
+    "position": "Back-end დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-10T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "343448",
+    "seniority": null,
+    "category": "backend",
+    "technologies": [],
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf3d726b63c4392505da5d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61b7a2776a307d9a735e029f"
+    },
+    "company": "საჯარო რეესტრის ეროვნული სააგენტო",
+    "salary": 6000,
+    "position": "ვებ დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-10T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "343447",
+    "seniority": null,
+    "category": "front",
+    "technologies": ["javascript", "jquery", "html/css"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf3d726b63c4392505da5d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61b7a2776a307d9a735e02a2"
+    },
+    "company": "Eurasia Group",
+    "salary": 7000,
+    "position": ".NET ვებდეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-09T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "343009",
+    "seniority": "middle",
+    "category": "backend",
+    "technologies": ["c#", ".net", "mysql", "html/css"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "61bf3b3b6b63c4392505da5b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61b7a2776a307d9a735e02a3"
+    },
+    "company": "Lemondo",
+    "salary": 3000,
+    "position": "უფროსი HTML/Markup დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-08T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "342846",
+    "seniority": "senior",
+    "category": "markup",
+    "technologies": ["html/css"],
+    "__v": 0,
+    "companyId": {
+      "$oid": "619d3187c6dad46cd80e02a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "61b7a2776a307d9a735e02a4"
+    },
+    "company": "Fly.Ge",
+    "salary": 3000,
+    "position": "უფროსი Wordpress დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-08T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "342842",
+    "seniority": "senior",
+    "category": "wordpress",
+    "technologies": ["wordpress"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61c0b0acbed15b127030f2e3"
+    },
+    "company": "Gegidze • გეგიძე",
+    "salary": 1000,
+    "position": "Junior Java Developer",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-20T14:34:52.559Z"
+    },
+    "source": "ttge",
+    "currency": "euro",
+    "url": "gegidze/SHESs-junior-java-developer",
+    "seniority": "junior",
+    "category": "backend",
+    "technologies": ["java", "spring", "mysql", "redis"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61c0b0acbed15b127030f2e4"
+    },
+    "company": "Webzool Creative",
+    "salary": 3300,
+    "position": "Full Stack Python Django დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-19T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "344713",
+    "seniority": "middle",
+    "category": "fullstack",
+    "technologies": ["mysql", "postgre", "javascript", "html/css", "python", "django", "flask"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61c0b0acbed15b127030f2e8"
+    },
+    "company": "1-Backoffice",
+    "salary": 2500,
+    "position": "ინგლისურენოვანი Full Stack დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2021-12-14T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "343852",
+    "seniority": null,
+    "category": "fullstack",
+    "technologies": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61d54e9cad56481fa5e293e4"
+    },
+    "company": "Webzool Creative",
+    "salary": 3300,
+    "position": "Full Stack Python Django დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2022-12-19T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "344713",
+    "seniority": "middle",
+    "category": "fullstack",
+    "technologies": ["javascript", "mysql", "postgresql", "django", "flask", "html/css"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61d54e9cad56481fa5e293e6"
+    },
+    "company": "Blocshop",
+    "salary": 4000,
+    "position": "Angular დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2022-12-16T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "344487",
+    "seniority": "middle",
+    "category": "frontend",
+    "technologies": ["angular", "typescript"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61d54e9cad56481fa5e293e7"
+    },
+    "company": "Blocshop",
+    "salary": 4000,
+    "position": ".Net დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2022-12-16T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "344486",
+    "seniority": "middle",
+    "category": "backend",
+    "technologies": [".net"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61d54e9cad56481fa5e293ec"
+    },
+    "company": "Blocshop",
+    "salary": 5000,
+    "position": "უფროსი Java დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2022-12-10T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "343323",
+    "seniority": "senior",
+    "category": "backend",
+    "technologies": ["java"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61d54e9cad56481fa5e293f2"
+    },
+    "company": "პროკრედიტ ბანკი",
+    "salary": 3500,
+    "position": "Front-end დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2022-01-03T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "346424",
+    "seniority": "middle",
+    "category": "frontend",
+    "technologies": ["react", "reactnative"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61d54e9cad56481fa5e293f3"
+    },
+    "company": "პროკრედიტ ბანკი",
+    "salary": 3500,
+    "position": "Back-End დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2022-01-03T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "gel",
+    "url": "346432",
+    "seniority": "middle",
+    "category": "backend",
+    "technologies": ["c#", ".net", "mysql", "mssql"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61d54e9cad56481fa5e293f4"
+    },
+    "company": "ConvieneOnline",
+    "salary": 1400,
+    "position": "უფროსი PHP Backend დეველოპერი",
+    "approved": true,
+    "date": {
+      "$date": "2022-01-03T08:00:00Z"
+    },
+    "source": "jobsge",
+    "currency": "usd",
+    "url": "346290",
+    "seniority": "senior",
+    "category": "backend",
+    "technologies": ["php", "jquery"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62487b31d7cf74fb02b5097f"
+    },
+    "company": "Neollet",
+    "salary": 3000,
+    "approved": false,
+    "date": {
+      "$date": "2022-04-02T16:34:57.752Z"
+    },
+    "source": "user",
+    "position": "Front end Developer",
+    "currency": "gel",
+    "seniority": "senior",
+    "technologies": ["Go"],
+    "companyId": {
+      "$oid": "619d3074c6dad46cd80e029e"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "629c6ecbc332cc92848cb350"
+    },
+    "company": "UniPAY",
+    "salary": 99999,
+    "approved": false,
+    "date": {
+      "$date": "2022-06-05T08:52:27.153Z"
+    },
+    "source": "user",
+    "position": "Database Developer",
+    "currency": "gel",
+    "seniority": "intern",
+    "technologies": ["Firebase"],
+    "companyId": {
+      "$oid": "619d3115c6dad46cd80e029f"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63026e6aa2c9dbe92d6c594d"
+    },
+    "salary": 35,
+    "approved": true,
+    "date": {
+      "$date": "2022-08-21T17:42:02.152Z"
+    },
+    "source": "user",
+    "position": "1",
+    "currency": "gel",
+    "seniority": "junior",
+    "technologies": ["Go"],
+    "companyId": {
+      "$oid": "619d3061c6dad46cd80e029d"
+    },
+    "__v": 0
+  }
+]
