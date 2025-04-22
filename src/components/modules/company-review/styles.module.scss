@@ -5,33 +5,26 @@
   @apply md:px-12 md:py-4;
 
   & > * {
-    padding: 1rem 0;
+    @apply py-4;
   }
 
   .user {
-    padding: 1rem 0;
-    display: flex;
+    @apply py-4 flex;
 
     .icon {
-      display: flex;
-      align-items: center;
-      padding: 0 1rem 0 0;
+      @apply flex items-center pr-4;
 
       svg {
-        color: rgba(0, 0, 0, 0.8);
-        width: 35px;
-        height: 35px;
+        @apply text-[rgba(0,0,0,0.8)] w-[35px] h-[35px];
       }
     }
   }
 
   .positiveReview {
-    color: rgb(0, 170, 0);
-    word-break: break-all;
+    @apply text-[rgb(0,170,0)] break-all;
   }
 
   .negativeReview {
-    word-break: break-all;
-    color: rgb(201, 0, 0);
+    @apply break-all text-[rgb(201,0,0)];
   }
 }

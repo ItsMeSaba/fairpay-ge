@@ -4,25 +4,14 @@
   @apply px-4 md:px-12 py-4 relative;
 
   .filtersRow {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-bottom: 1rem;
+    @apply flex flex-wrap gap-2 mb-4;
   }
 
   .filtrationButton {
-    font-family: 'Roboto', sans-serif;
-    font-size: 0.9rem;
-    padding: 0.5rem 1rem;
-    border-radius: 1000px;
-    border: solid 2px rgb(0, 0, 200);
-    background-color: white;
-    color: rgb(0, 0, 200);
-    cursor: pointer;
+    @apply font-roboto text-sm px-4 py-2 rounded-full border-2 border-[rgb(0,0,200)] bg-white text-[rgb(0,0,200)] cursor-pointer;
   }
 
   .activeFiltrationButton {
-    background-color: rgb(0, 0, 200);
-    color: white;
+    @apply bg-[rgb(0,0,200)] text-white;
   }
 }

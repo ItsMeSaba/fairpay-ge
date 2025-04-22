@@ -1,13 +1,10 @@
+@reference 'tailwindcss';
+
 .technologies {
-  margin: 0.7rem 0 0 0;
+  @apply mt-[0.7rem];
 
   .technology {
-    display: inline-block;
-    word-break: break-all;
-    font-size: 0.9rem;
-    margin: 0.3rem 0.4rem 0 0;
-    border: solid 1.5px rgba(40, 40, 40, 1);
-    border-radius: 1000px;
-    padding: 0.2rem 0.75rem;
+    @apply inline-block break-all text-[0.9rem] mt-[0.3rem] mr-[0.4rem];
+    @apply border-[1.5px] border-[rgba(40,40,40,1)] rounded-[1000px] py-[0.2rem] px-[0.75rem];
   }
 }
