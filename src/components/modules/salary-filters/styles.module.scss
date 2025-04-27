@@ -8,7 +8,7 @@
   }
 
   .filtrationButton {
-    @apply font-roboto text-sm px-4 py-2 rounded-full border-2 border-[rgb(0,0,200)] bg-white text-[rgb(0,0,200)] cursor-pointer;
+    @apply text-sm px-4 py-2 rounded-full border-2 border-[rgb(0,0,200)] bg-white text-[rgb(0,0,200)] cursor-pointer;
   }
 
   .activeFiltrationButton {
