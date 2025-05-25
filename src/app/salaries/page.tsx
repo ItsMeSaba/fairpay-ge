@@ -1,31 +1,25 @@
 'use client';
 
-import { useState } from 'react';
-import { SalaryFilters } from '@/components/modules/salary-filters/SalaryFilters';
-import { CompanySalary } from '@/components/modules/company-salary/CompanySalary';
 import salaries from '@/data/salaries.json';
+import seniorities from '@/data/seniorities.json';
+import technologies from '@/data/technologies.json';
+import { CompanySalary } from '@/components/modules/company-salary/CompanySalary';
+import { FiltrationModule } from '@/components/modules/filtration-module/FiltrationModule';
+import { useState } from 'react';
+
+const technologyFilterOptions = technologies.map((technology) => ({
+  label: technology,
+  value: technology,
+}));
+
+const seniorityFilterOptions = seniorities.map((seniority) => ({
+  label: seniority,
+  value: seniority,
+}));
 
 export default function Salaries() {
   const [technologyFilters, setTechnologyFilters] = useState<string[]>([]);
   const [seniorityFilters, setSeniorityFilters] = useState<string[]>([]);
-
-  function handleFilterChange(filter: string, category: 'technology' | 'seniority') {
-    switch (category) {
-      case 'technology':
-        if (technologyFilters.includes(filter)) {
-          return setTechnologyFilters((prev) => prev.filter((f) => f !== filter));
-        }
-
-        return setTechnologyFilters((prev) => [...prev, filter]);
-
-      case 'seniority':
-        if (seniorityFilters.includes(filter)) {
-          return setSeniorityFilters((prev) => prev.filter((f) => f !== filter));
-        }
-
-        return setSeniorityFilters((prev) => [...prev, filter]);
-    }
-  }
 
   const filteredSalaries = salaries.filter((salary) => {
     const hasTechnologyMatch =
@@ -41,12 +35,22 @@ export default function Salaries() {
 
   return (
     <div>
-      <SalaryFilters
-        onTechnologyChange={(filter: string) => handleFilterChange(filter, 'technology')}
-        onSeniorityChange={(filter: string) => handleFilterChange(filter, 'seniority')}
-        activeTechnologies={technologyFilters}
-        activeSeniorities={seniorityFilters}
-      />
+      <div className="container my-0 py-0 flex gap-2">
+        <FiltrationModule
+          options={technologyFilterOptions}
+          label="Technology"
+          appliedOptions={technologyFilters}
+          onApply={(selected) => setTechnologyFilters(selected)}
+        />
+
+        <FiltrationModule
+          options={seniorityFilterOptions}
+          label="Seniority"
+          displaySearch={false}
+          appliedOptions={seniorityFilters}
+          onApply={(selected) => setSeniorityFilters(selected)}
+        />
+      </div>
 
       <div className="min-h-[500px]">
         {filteredSalaries?.map((salary) => (
