@@ -54,7 +54,7 @@ export default function Salaries() {
 
       <div className="min-h-[500px]">
         {filteredSalaries?.map((salary) => (
-          <CompanySalary data={salary} company={{ name: salary.company }} />
+          <CompanySalary key={salary._id.$oid} data={salary} company={{ name: salary.company }} />
         ))}
 
         {filteredSalaries.length === 0 && (

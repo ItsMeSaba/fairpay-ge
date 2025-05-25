@@ -1,4 +1,3 @@
-import path from 'path';
 import companyImages, { companyImages2 } from './companyImages';
 import noImage from '@/public/companies/noimage.jpg';
 

@@ -8,15 +8,7 @@ interface Props {
 }
 
 export function CompanyReview(props: Props) {
-  let {
-    rating,
-    positiveReview,
-    negativeReview,
-    position,
-    _id,
-    userReaction,
-    likeDislikeDifference,
-  } = props.review;
+  const { rating, positiveReview, negativeReview, position } = props.review;
 
   return (
     <div className={styles.review}>

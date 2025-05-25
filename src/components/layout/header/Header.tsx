@@ -1,6 +1,5 @@
 import styles from './styles.module.scss';
 import Link from 'next/link';
-import AccountCircleRoundedIcon from '@/assets/svgs/icons/account-circle.svg';
 import MenuIcon from '@/assets/svgs/icons/menu.svg';
 
 interface Args {
@@ -9,7 +8,7 @@ interface Args {
 }
 
 export function Header(args: Args) {
-  const { openAuth, openSliderMenu } = args;
+  const { openSliderMenu } = args;
 
   return (
     <header className={styles.header}>
@@ -44,19 +43,19 @@ export function Header(args: Args) {
   );
 }
 
-function Links() {
-  return (
-    <ul>
-      <li>
-        <Link href="/salaries">ხელფასები</Link>
-      </li>
-      <li>
-        <Link href="/companies">კომპანიები</Link>
-      </li>
-      <li>
-        <Link href="/technologies">ტექნოლოგიები</Link>
-      </li>
-      <li>{/* <AccountCircleRoundedIcon fontSize="medium" /> */}</li>
-    </ul>
-  );
-}
+// function Links() {
+//   return (
+//     <ul>
+//       <li>
+//         <Link href="/salaries">ხელფასები</Link>
+//       </li>
+//       <li>
+//         <Link href="/companies">კომპანიები</Link>
+//       </li>
+//       <li>
+//         <Link href="/technologies">ტექნოლოგიები</Link>
+//       </li>
+//       <li>{/* <AccountCircleRoundedIcon fontSize="medium" /> */}</li>
+//     </ul>
+//   );
+// }

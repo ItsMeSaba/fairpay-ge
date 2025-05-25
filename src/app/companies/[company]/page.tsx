@@ -7,7 +7,6 @@ import Image from 'next/image';
 import { useEffect, useState } from 'react';
 // import AddSalaryButton from 'components/buttons/AddSalaryButton';
 // import AddReviewButton from 'components/buttons/AddReviewButton';
-import CompanyBottomWave from '@/assets/svgs/waves/company-bottom-wave.svg';
 import CompanyHeroWave from '@/assets/svgs/waves/company-hero-wave.svg';
 import companies from '@/data/companies.json';
 import { useSearchParams } from 'next/navigation';

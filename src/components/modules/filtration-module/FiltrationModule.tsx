@@ -51,8 +51,8 @@ export function FiltrationModule({
   };
 
   const allIds = options?.map((o) => o.value);
-  const noneSelected = selected?.length === 0;
-  const allSelected = selected?.length === allIds?.length;
+  // const noneSelected = selected?.length === 0;
+  // const allSelected = selected?.length === allIds?.length;
 
   return (
     <div className="relative inline-block text-left" ref={containerRef}>

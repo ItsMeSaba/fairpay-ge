@@ -57,11 +57,9 @@ import cactussoft from '@/public/companies/cactussoft.jpg';
 import arttteo from '@/public/companies/arttteo.jpg';
 import binance from '@/public/companies/binance.png';
 import crosscreators from '@/public/companies/crosscreators.png';
-import redmed from '@/public/companies/redmed.png';
 import upgaming from '@/public/companies/upgaming.png';
 import velistore from '@/public/companies/velistore.png';
 import unisoft from '@/public/companies/unisoft.png';
-// import dataart from '@/public/companies/dataart.jpg';
 
 import { StaticImageData } from 'next/image';
 
