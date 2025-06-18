@@ -52,6 +52,8 @@ export default function Salaries() {
         />
       </div>
 
+      <p className="text-center mt-6">დემო ინფორმაცია</p>
+
       <div className="min-h-[500px]">
         {filteredSalaries?.map((salary) => (
           <CompanySalary key={salary._id.$oid} data={salary} company={{ name: salary.company }} />
