@@ -27,7 +27,13 @@ export function CompanySalary(props: any) {
           {position} {seniority ? `(${seniority})` : ''}
         </h2>
 
-        <h5>{new Date(date.$date).toLocaleDateString()}</h5>
+        <h5>
+          {new Date(date.$date).toLocaleDateString('en-GB', {
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric',
+          })}
+        </h5>
 
         <TechnologyPills technologies={technologies} />
       </div>
