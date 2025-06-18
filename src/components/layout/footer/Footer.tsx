@@ -1,5 +1,5 @@
-import style from "./styles.module.scss";
-import Link from "next/link";
+import style from './styles.module.scss';
+import Link from 'next/link';
 
 export function Footer() {
   return (
@@ -28,14 +28,14 @@ export function Footer() {
         <Link href="/info/destination">მიზანი</Link>
       </div>
 
-      <a
+      {/* <a
         className={style.deleteRequest}
         target="_blank"
         rel="noreferrer"
         href="https://mail.google.com/mail/?view=cm&fs=1&to=fairpay.ge@gmail.com&su=ინფორმაციის წაშლა"
       >
         წაშლის მოთხოვნა
-      </a>
+      </a> */}
     </div>
   );
 }
