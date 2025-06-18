@@ -9,6 +9,10 @@ export function CompanyReviews(props: any) {
 
   return (
     <div className="py-4">
+      {companyReviews?.length > 0 && (
+        <p className="bg-white w-fit py-2 px-3 mx-auto rounded-md">დემო ინფორმაცია</p>
+      )}
+
       {companyReviews?.map((review, index) => (
         <CompanyReview key={index} review={review} />
       ))}
