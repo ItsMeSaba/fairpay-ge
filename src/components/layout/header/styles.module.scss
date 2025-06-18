@@ -1,8 +1,8 @@
 @reference "tailwindcss";
 
 .header {
-  @apply text-base bg-white h-22 grid grid-cols-2 items-center justify-between justify-items-center px-4 z-[99];
-  @apply md:grid-cols-[1fr_4fr_1fr] md:px-12 md:h-28;
+  @apply text-base bg-white h-[12vh] max-h-20 grid grid-cols-2 items-center justify-between justify-items-center px-4 z-[99];
+  @apply md:grid-cols-[1fr_4fr_1fr] md:px-12 md:max-h-24;
 
   .websiteName {
     @apply p-0 flex justify-start items-end text-[1.8rem] font-['Comfortaa'] font-bold tracking-[-1px] cursor-pointer text-[rgb(10,10,10,1)];

@@ -18,7 +18,7 @@ export function Hero() {
 
       <div className={style.content}>
         <h1 className={style.title}>
-          იცოდე შენი
+          <span className={style.smallText}>იცოდე შენი</span>
           <span className={style.bigText}>ფასი</span>
         </h1>
       </div>
