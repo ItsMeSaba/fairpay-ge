@@ -1349,24 +1349,5 @@
       "$oid": "619d3115c6dad46cd80e029f"
     },
     "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "63026e6aa2c9dbe92d6c594d"
-    },
-    "salary": 35,
-    "approved": true,
-    "date": {
-      "$date": "2022-08-21T17:42:02.152Z"
-    },
-    "source": "user",
-    "position": "1",
-    "currency": "gel",
-    "seniority": "junior",
-    "technologies": ["Go"],
-    "companyId": {
-      "$oid": "619d3061c6dad46cd80e029d"
-    },
-    "__v": 0
   }
 ]
