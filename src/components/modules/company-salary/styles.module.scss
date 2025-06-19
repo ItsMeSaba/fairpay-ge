@@ -1,7 +1,7 @@
-@reference 'tailwindcss';
+// @reference 'tailwindcss';
 
 .outlineOne {
-  @apply absolute scale-50 origin-top-left -left-[10%] -z-1;
+  @apply absolute scale-50 origin-top-left -left-[10%] -z-[1];
 }
 
 .companySalary {

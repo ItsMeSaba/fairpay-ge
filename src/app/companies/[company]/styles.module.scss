@@ -1,11 +1,11 @@
-@reference "tailwindcss";
+// @reference "tailwindcss";
 
 .page {
   .company {
     @apply py-8 px-4 md:px-10 grid grid-cols-1 md:grid-cols-[1fr_4fr];
 
     .image {
-      @apply w-30 md:w-60;
+      @apply w-32 md:w-60;
 
       img {
         @apply rounded-[20px];
