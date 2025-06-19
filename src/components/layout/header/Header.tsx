@@ -8,7 +8,7 @@ interface Args {
 }
 
 export function Header(args: Args) {
-  const { openSliderMenu } = args;
+  // const { openSliderMenu } = args;
 
   return (
     <header className={styles.header}>
@@ -30,15 +30,9 @@ export function Header(args: Args) {
 
           <Link href="/companies">კომპანიები</Link>
         </li>
-
-        {/* <li onClick={openAuth}>
-          <AccountCircleRoundedIcon className="text-black" />
-        </li> */}
       </ul>
 
-      <div className={styles.burgerButton} onClick={openSliderMenu}>
-        <MenuIcon />
-      </div>
+      <div className={styles.burgerButton}>{/* <MenuIcon /> */}</div>
     </header>
   );
 }
